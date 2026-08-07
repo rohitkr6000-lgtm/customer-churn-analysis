@@ -1,5 +1,8 @@
 # 📊 Customer Churn Analysis
 
+![Customer Churn Dashboard](Customer%20Churn%20Analytics%20Dashboard.png)
+
+
 ## 📌 Project Overview
 This project focuses on analyzing customer churn data to identify the key factors responsible for customer cancellations. The project includes data cleaning, exploratory data analysis (EDA), SQL queries, KPI generation, and visualizations to provide actionable business insights.
 
