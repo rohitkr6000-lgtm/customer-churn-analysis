@@ -86,3 +86,30 @@ https://github.com/rohitkr6000-lgtm
 
 ---
 ⭐ If you like this project, don't forget to give it a Star!
+
+---
+
+## 🔍 Key Insights
+
+- Overall customer churn rate is **28.6%**, with 6 out of 21 customers churned.
+- **Monthly contracts** show the highest churn compared with longer-term contracts.
+- **Basic plan** customers have the highest churn rate among the plan types.
+- **Competitor-related reasons** are a major contributor to customer cancellations.
+- **6 customers** are classified as high churn risk based on the churn score.
+- The overall customer **retention rate is 71.4%**.
+
+---
+
+## 💡 Business Recommendations
+
+- Focus on retaining customers with **monthly contracts** by offering incentives for longer-term plans.
+- Investigate why **Basic plan** customers are churning and improve the value proposition.
+- Target **high-risk customers** with personalized retention offers and proactive support.
+- Analyze competitor-related cancellations and strengthen pricing, features, and customer experience.
+- Monitor churn KPIs regularly through the dashboard to identify emerging customer-risk patterns.
+
+---
+
+## 📊 Project Outcome
+
+This project demonstrates an end-to-end **Customer Churn Analysis** workflow using Python, SQL, Excel, and Power BI. It combines data cleaning, exploratory analysis, KPI development, visualization, and business insights to support customer retention decisions.
