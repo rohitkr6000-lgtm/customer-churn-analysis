@@ -57,9 +57,12 @@ This project focuses on analyzing customer churn data to identify the key factor
 ---
 
 ## 🚀 Future Improvements
-- Build an interactive Power BI Dashboard.
+🚀 Future Improvements
+
 - Develop a Machine Learning model for churn prediction.
-- Deploy the project as a web application.
+- Implement customer churn probability scoring.
+- Deploy the analysis as an interactive web application.
+- Automate the data refresh and reporting workflow.
 
 ---
 
