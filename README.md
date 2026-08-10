@@ -6,7 +6,7 @@ Customer churn is an important business problem that directly impacts revenue an
 
 This project analyzes customer data to identify the key factors that influence customer churn and provides actionable business insights to help businesses improve customer retention.
 
-The project demonstrates practical skills in Data Analysis, Data Cleaning, Exploratory Data Analysis, SQL, Python, Excel, Power BI, Data Visualization, KPI Analysis, and Business Intelligence.
+The project demonstrates practical skills in Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), SQL, Python, Excel, Power BI, Data Visualization, KPI Analysis, and Business Intelligence.
 
 ---
 
@@ -20,7 +20,6 @@ The project demonstrates practical skills in Data Analysis, Data Cleaning, Explo
 - Calculate important business KPIs
 - Create meaningful data visualizations
 - Build an interactive Power BI dashboard
-- Identify important customer churn patterns
 - Generate actionable business insights
 - Provide recommendations to improve customer retention
 
@@ -65,7 +64,7 @@ The customer churn dataset was prepared for analysis and business insights.
 
 ### 2. Data Cleaning
 
-The dataset was analyzed for:
+The dataset was checked for:
 
 - Missing Values
 - Duplicate Records
@@ -103,12 +102,12 @@ Important business KPIs were analyzed, including:
 
 # 📊 Power BI Dashboard
 
-The Power BI dashboard provides an interactive and visual overview of customer churn patterns and important business KPIs.
+The following Power BI dashboard provides a visual overview of customer churn patterns, KPIs, and business insights.
 
-### Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
-  <img src="./Customer%20Churn%20Analysis%20Dashboard.png" alt="Customer Churn Analysis Power BI Dashboard" width="100%">
+  <img src="./Customer%20Churn%20Analytics%20Dashboard.png" alt="Customer Churn Analytics Power BI Dashboard" width="100%">
 </p>
 
 ---
@@ -127,7 +126,7 @@ The dashboard helps analyze:
 - Monthly Charges
 - Customer Tenure
 - Internet Services
-- Key Performance Indicators
+- Key Performance Indicators (KPIs)
 
 ---
 
@@ -162,7 +161,7 @@ Based on the analysis, businesses can:
 
 | File | Description |
 |---|---|
-| `Customer Churn Analysis Dashboard.png` | Power BI dashboard preview |
+| `Customer Churn Analytics Dashboard.png` | Power BI dashboard preview |
 | `churn_analysis.ipynb` | Python data analysis and EDA |
 | `exported_churn_data.csv` | Customer churn dataset |
 | `README.md` | Project documentation |
