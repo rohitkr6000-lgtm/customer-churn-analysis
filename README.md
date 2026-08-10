@@ -18,15 +18,15 @@ This project focuses on analyzing customer churn data to identify the key factor
 ---
 
 ## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- SQL (SQLite)
-- Microsoft Excel
-- Power BI
-- Jupyter Notebook
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SQL (SQLite)
+Microsoft Excel
+Power BI
+Jupyter Notebook
 
 ---
 
