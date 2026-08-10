@@ -1,128 +1,156 @@
-📊 Customer Churn Analysis
+# 📊 Customer Churn Analysis
 
-📌 Project Overview
+## 📌 Project Overview
 
-Customer churn is an important business problem that directly impacts revenue and customer retention. This project analyzes customer data to identify the key factors that influence customer churn and provides actionable business insights.
+Customer churn is an important business problem that directly impacts revenue and customer retention.
 
-The project uses Python, SQL, Excel, and Power BI for data cleaning, exploratory data analysis, visualization, KPI analysis, and business intelligence.
+This project analyzes customer data to identify the key factors that influence customer churn and provides actionable business insights to help businesses improve customer retention.
+
+The project demonstrates practical skills in Data Analysis, Data Cleaning, Exploratory Data Analysis, SQL, Python, Excel, Power BI, Data Visualization, KPI Analysis, and Business Intelligence.
 
 ---
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze customer churn patterns
 - Identify the major factors responsible for customer churn
-- Perform data cleaning and preprocessing
-- Conduct Exploratory Data Analysis (EDA)
-- Calculate important business KPIs
+- Clean and preprocess customer data
+- Perform Exploratory Data Analysis (EDA)
 - Analyze customer demographics and behavior
+- Calculate important business KPIs
 - Create meaningful data visualizations
 - Build an interactive Power BI dashboard
-- Provide actionable business recommendations
+- Identify important customer churn patterns
+- Generate actionable business insights
+- Provide recommendations to improve customer retention
 
 ---
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Python
-  
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
+### Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Cleaning
+- Exploratory Data Analysis
 
-- SQL
-  
-  - Data querying
-  - Filtering
-  - Aggregation
-  - GROUP BY
-  - CASE statements
-  - Business analysis
+### SQL
+- Data Filtering
+- Data Aggregation
+- GROUP BY
+- CASE Statements
+- Business Analysis
 
-- Microsoft Excel
-  
-  - Data cleaning
-  - Pivot Tables
-  - Data analysis
+### Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
 
-- Power BI
-  
-  - Data visualization
-  - KPI dashboards
-  - Interactive reports
-  - Business Intelligence
+### Power BI
+- Interactive Dashboard
+- Data Visualization
+- KPI Analysis
+- Business Intelligence
+- Customer Churn Analysis
 
 ---
 
-🔍 Data Analysis Process
+## 🔍 Data Analysis Process
 
-1. Data Collection
+### 1. Data Preparation
 
-Customer data was collected and prepared for analysis.
+The customer churn dataset was prepared for analysis and business insights.
 
-2. Data Cleaning
+### 2. Data Cleaning
 
-The dataset was checked for:
+The dataset was analyzed for:
 
-- Missing values
-- Duplicate records
-- Incorrect data types
-- Inconsistent values
-- Data quality issues
+- Missing Values
+- Duplicate Records
+- Incorrect Data Types
+- Inconsistent Values
+- Data Quality Issues
 
-3. Exploratory Data Analysis
+### 3. Exploratory Data Analysis
 
-Python was used to explore customer behavior and identify patterns related to churn.
+Python was used to explore customer behavior and identify patterns related to customer churn.
 
-Key areas analyzed:
+The analysis focused on:
 
-- Customer demographics
-- Contract type
-- Payment methods
-- Tenure
-- Monthly charges
-- Total charges
-- Internet services
-- Customer churn
+- Customer Demographics
+- Contract Type
+- Payment Methods
+- Customer Tenure
+- Monthly Charges
+- Total Charges
+- Internet Services
+- Customer Churn
 
-4. KPI Analysis
+### 4. KPI Analysis
 
-Important KPIs were analyzed, including:
+Important business KPIs were analyzed, including:
 
 - Total Customers
 - Churned Customers
 - Churn Rate
 - Customer Retention
-- Monthly Charges
+- Average Monthly Charges
 - Average Customer Tenure
-
-5. Power BI Dashboard
-
-An interactive Power BI dashboard was created to provide a visual overview of customer churn and its major contributing factors.
 
 ---
 
-📈 Key Business Insights
+# 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive and visual overview of customer churn patterns and important business KPIs.
+
+### Dashboard Preview
+
+<p align="center">
+  <img src="./Customer%20Churn%20Analysis%20Dashboard.png" alt="Customer Churn Analysis Power BI Dashboard" width="100%">
+</p>
+
+---
+
+## 📈 Dashboard Analysis
+
+The dashboard helps analyze:
+
+- Total Customers
+- Churned Customers
+- Churn Rate
+- Customer Retention
+- Customer Segments
+- Contract Type
+- Payment Methods
+- Monthly Charges
+- Customer Tenure
+- Internet Services
+- Key Performance Indicators
+
+---
+
+## 💡 Key Business Insights
 
 The analysis helps identify:
 
-- Which customer segments have higher churn rates
-- How contract types affect customer retention
+- Customer segments with higher churn rates
+- The impact of contract type on customer retention
 - The relationship between monthly charges and churn
-- Which payment methods are associated with higher churn
-- How customer tenure impacts churn
-- Which services and customer characteristics require attention
+- Payment methods associated with customer churn
+- The effect of customer tenure on churn
+- Customer groups that may require targeted retention strategies
 
 ---
 
-💡 Business Recommendations
+## 🚀 Business Recommendations
 
 Based on the analysis, businesses can:
 
 - Focus on high-risk customer segments
-- Improve customer retention strategies
-- Provide targeted offers to customers likely to churn
+- Develop targeted customer retention strategies
+- Provide personalized offers to customers at risk of churn
 - Encourage longer-term contracts
 - Improve customer support and service experience
 - Monitor customers with high monthly charges
@@ -130,66 +158,48 @@ Based on the analysis, businesses can:
 
 ---
 
-📂 Project Structure
+## 📂 Project Files
 
-Customer-Churn-Analysis/
-│
-├── data/
-│   └── exported_churn_data.csv
-│
-├── notebooks/
-│   └── customer_churn_analysis.ipynb
-│
-├── dashboard/
-│   └── Power BI Dashboard
-│
-├── images/
-│   └── dashboard-screenshot.png
-│
-└── README.md
+| File | Description |
+|---|---|
+| `Customer Churn Analysis Dashboard.png` | Power BI dashboard preview |
+| `churn_analysis.ipynb` | Python data analysis and EDA |
+| `exported_churn_data.csv` | Customer churn dataset |
+| `README.md` | Project documentation |
 
 ---
 
-📊 Dashboard
+## 🧠 Skills Demonstrated
 
-The Power BI dashboard provides an interactive view of:
-
-- Customer Churn
-- Churn Rate
-- Customer Segments
-- Contract Analysis
-- Payment Method Analysis
-- Monthly Charges
-- Customer Tenure
-- Key Performance Indicators (KPIs)
+**Python | SQL | Excel | Power BI | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | Exploratory Data Analysis | Data Visualization | KPI Analysis | Business Intelligence | Customer Churn Analysis | Business Insights**
 
 ---
 
-🧠 Skills Demonstrated
+## 📈 Project Workflow
 
-This project demonstrates practical skills in:
-
-Data Analysis | Data Cleaning | Exploratory Data Analysis | Python | Pandas | NumPy | SQL | Excel | Power BI | Data Visualization | KPI Analysis | Business Intelligence | Customer Churn Analysis | Business Insights
+**Data Collection → Data Cleaning → Exploratory Data Analysis → KPI Analysis → Data Visualization → Power BI Dashboard → Business Insights → Business Recommendations**
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
-- Add advanced customer segmentation
-- Build a churn prediction model using Machine Learning
+- Develop a Machine Learning model for churn prediction
+- Perform advanced customer segmentation
 - Improve Power BI dashboard interactivity
 - Add automated reporting
-- Develop a customer churn prediction system
+- Build a customer churn prediction system
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am interested in Data Analytics and Business Intelligence and enjoy working with data to discover meaningful insights and support data-driven business decisions.
+I am interested in Data Analytics and Business Intelligence.
 
-Skills
+I enjoy working with data to discover meaningful insights and support data-driven business decisions.
 
-Python | SQL | Excel | Power BI | Data Analysis | Data Visualization | Business Intelligence
+### Technical Skills
+
+**Python | SQL | Excel | Power BI | Data Analysis | Data Visualization | Business Intelligence**
 
 ---
 
