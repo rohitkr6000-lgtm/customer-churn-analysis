@@ -1,118 +1,196 @@
-# 📊 Customer Churn Analysis
+📊 Customer Churn Analysis
 
-![Customer Churn Dashboard](Customer%20Churn%20Analytics%20Dashboard.png)
+📌 Project Overview
 
+Customer churn is an important business problem that directly impacts revenue and customer retention. This project analyzes customer data to identify the key factors that influence customer churn and provides actionable business insights.
 
-## 📌 Project Overview
-This project focuses on analyzing customer churn data to identify the key factors responsible for customer cancellations. The project includes data cleaning, exploratory data analysis (EDA), SQL queries, KPI generation, and visualizations to provide actionable business insights.
-
----
-
-## 🎯 Objectives
-- Analyze customer churn trends.
-- Identify major churn reasons.
-- Compare churn across subscription plans.
-- Build KPIs for business decisions.
-- Generate meaningful visualizations.
+The project uses Python, SQL, Excel, and Power BI for data cleaning, exploratory data analysis, visualization, KPI analysis, and business intelligence.
 
 ---
 
-## 🛠️ Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SQL (SQLite)
-Microsoft Excel
-Power BI
-Jupyter Notebook
+🎯 Project Objectives
+
+- Analyze customer churn patterns
+- Identify the major factors responsible for customer churn
+- Perform data cleaning and preprocessing
+- Conduct Exploratory Data Analysis (EDA)
+- Calculate important business KPIs
+- Analyze customer demographics and behavior
+- Create meaningful data visualizations
+- Build an interactive Power BI dashboard
+- Provide actionable business recommendations
 
 ---
 
-## 📂 Project Files
-- 📓 churn_analysis.ipynb
-- 📊 exported_churn_data.xlsx
-- 🗄️ test_database.sqlite
+🛠️ Tools & Technologies
+
+- Python
+  
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+
+- SQL
+  
+  - Data querying
+  - Filtering
+  - Aggregation
+  - GROUP BY
+  - CASE statements
+  - Business analysis
+
+- Microsoft Excel
+  
+  - Data cleaning
+  - Pivot Tables
+  - Data analysis
+
+- Power BI
+  
+  - Data visualization
+  - KPI dashboards
+  - Interactive reports
+  - Business Intelligence
 
 ---
 
-## 📈 Key Analysis
-- Monthly Churn Trend
-- Churn by Subscription Type
-- Churn by Plan Type
-- Churn by Contract Type
-- Customer Lifetime Value (CLTV)
-- Revenue Analysis
-- Cancellation Reason Analysis
+🔍 Data Analysis Process
+
+1. Data Collection
+
+Customer data was collected and prepared for analysis.
+
+2. Data Cleaning
+
+The dataset was checked for:
+
+- Missing values
+- Duplicate records
+- Incorrect data types
+- Inconsistent values
+- Data quality issues
+
+3. Exploratory Data Analysis
+
+Python was used to explore customer behavior and identify patterns related to churn.
+
+Key areas analyzed:
+
+- Customer demographics
+- Contract type
+- Payment methods
+- Tenure
+- Monthly charges
+- Total charges
+- Internet services
+- Customer churn
+
+4. KPI Analysis
+
+Important KPIs were analyzed, including:
+
+- Total Customers
+- Churned Customers
+- Churn Rate
+- Customer Retention
+- Monthly Charges
+- Average Customer Tenure
+
+5. Power BI Dashboard
+
+An interactive Power BI dashboard was created to provide a visual overview of customer churn and its major contributing factors.
 
 ---
 
-## 📊 Business Insights
-- Identified major reasons for customer churn.
-- Compared churn across different subscription plans.
-- Generated KPIs to support business decisions.
-- Built visual reports for better understanding.
+📈 Key Business Insights
+
+The analysis helps identify:
+
+- Which customer segments have higher churn rates
+- How contract types affect customer retention
+- The relationship between monthly charges and churn
+- Which payment methods are associated with higher churn
+- How customer tenure impacts churn
+- Which services and customer characteristics require attention
 
 ---
 
-## 🚀 Future Improvements
+💡 Business Recommendations
+
+Based on the analysis, businesses can:
+
+- Focus on high-risk customer segments
+- Improve customer retention strategies
+- Provide targeted offers to customers likely to churn
+- Encourage longer-term contracts
+- Improve customer support and service experience
+- Monitor customers with high monthly charges
+- Develop personalized retention campaigns
+
+---
+
+📂 Project Structure
+
+Customer-Churn-Analysis/
+│
+├── data/
+│   └── exported_churn_data.csv
+│
+├── notebooks/
+│   └── customer_churn_analysis.ipynb
+│
+├── dashboard/
+│   └── Power BI Dashboard
+│
+├── images/
+│   └── dashboard-screenshot.png
+│
+└── README.md
+
+---
+
+📊 Dashboard
+
+The Power BI dashboard provides an interactive view of:
+
+- Customer Churn
+- Churn Rate
+- Customer Segments
+- Contract Analysis
+- Payment Method Analysis
+- Monthly Charges
+- Customer Tenure
+- Key Performance Indicators (KPIs)
+
+---
+
+🧠 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+Data Analysis | Data Cleaning | Exploratory Data Analysis | Python | Pandas | NumPy | SQL | Excel | Power BI | Data Visualization | KPI Analysis | Business Intelligence | Customer Churn Analysis | Business Insights
+
+---
+
 🚀 Future Improvements
 
-- Develop a Machine Learning model for churn prediction.
-- Implement customer churn probability scoring.
-- Deploy the analysis as an interactive web application.
-- Automate the data refresh and reporting workflow.
+- Add advanced customer segmentation
+- Build a churn prediction model using Machine Learning
+- Improve Power BI dashboard interactivity
+- Add automated reporting
+- Develop a customer churn prediction system
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 About Me
 
-**Rohit Kumar**
+I am interested in Data Analytics and Business Intelligence and enjoy working with data to discover meaningful insights and support data-driven business decisions.
 
-💼 Aspiring Data Analyst
+Skills
 
-### Skills
-- Python
-- SQL
-- Power BI
-- Excel
-- Data Visualization
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- 
-### LinkedIn
-https://linkedin.com/in/rohit-kumar7171
-
-### GitHub
-https://github.com/rohitkr6000-lgtm
-
----
-⭐ If you like this project, don't forget to give it a Star!
+Python | SQL | Excel | Power BI | Data Analysis | Data Visualization | Business Intelligence
 
 ---
 
-## 🔍 Key Insights
-
-- Overall customer churn rate is **28.6%**, with 6 out of 21 customers churned.
-- **Monthly contracts** show the highest churn compared with longer-term contracts.
-- **Basic plan** customers have the highest churn rate among the plan types.
-- **Competitor-related reasons** are a major contributor to customer cancellations.
-- **6 customers** are classified as high churn risk based on the churn score.
-- The overall customer **retention rate is 71.4%**.
-
----
-
-## 💡 Business Recommendations
-
-- Focus on retaining customers with **monthly contracts** by offering incentives for longer-term plans.
-- Investigate why **Basic plan** customers are churning and improve the value proposition.
-- Target **high-risk customers** with personalized retention offers and proactive support.
-- Analyze competitor-related cancellations and strengthen pricing, features, and customer experience.
-- Monitor churn KPIs regularly through the dashboard to identify emerging customer-risk patterns.
-
----
-
-## 📊 Project Outcome
-
-This project demonstrates an end-to-end **Customer Churn Analysis** workflow using Python, SQL, Excel, and Power BI. It combines data cleaning, exploratory analysis, KPI development, visualization, and business insights to support customer retention decisions.
+⭐ If you find this project useful, feel free to explore the repository.
