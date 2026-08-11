@@ -184,7 +184,7 @@ Based on the analysis, businesses can:
 
 - Develop a Machine Learning model for churn prediction
 - Perform advanced customer segmentation
-- Improve Power BI dashboard interactivity
+- Implement customer churn probability scoring
 - Add automated reporting
 - Build a customer churn prediction system
 
