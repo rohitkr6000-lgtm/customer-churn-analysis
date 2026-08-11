@@ -132,14 +132,18 @@ The dashboard helps analyze:
 
 ## 💡 Key Business Insights
 
-The analysis helps identify:
+## 💡 Key Business Insights
 
-- Customer segments with higher churn rates
-- The impact of contract type on customer retention
-- The relationship between monthly charges and churn
-- Payment methods associated with customer churn
-- The effect of customer tenure on churn
-- Customer groups that may require targeted retention strategies
+The analysis identified the following key findings:
+
+- The overall customer churn rate is **28.6%**, with **6 out of 21 customers** churned.
+- The overall customer retention rate is **71.4%**.
+- **Month-to-month contract** customers have the highest churn rate at **42.9%**.
+- **Basic plan** customers have the highest churn rate at **50%**.
+- **6 customers** are classified as **high churn risk** based on their churn scores.
+- **Competitor-related cancellations** are a major contributor to customer churn.
+- The analysis highlights high-risk customer segments that can be targeted with **personalized retention strategies**.
+
 
 ---
 
