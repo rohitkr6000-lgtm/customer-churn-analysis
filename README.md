@@ -164,6 +164,7 @@ Based on the analysis, businesses can:
 | `Customer Churn Analytics Dashboard.png` | Power BI dashboard preview |
 | `churn_analysis.ipynb` | Python data analysis and EDA |
 | `exported_churn_data.csv` | Customer churn dataset |
+| `test_database.sqlite` | SQLite database used for SQL analysis |
 | `README.md` | Project documentation |
 
 ---
