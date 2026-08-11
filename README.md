@@ -132,8 +132,6 @@ The dashboard helps analyze:
 
 ## 💡 Key Business Insights
 
-## 💡 Key Business Insights
-
 The analysis identified the following key findings:
 
 - The overall customer churn rate is **28.6%**, with **6 out of 21 customers** churned.
